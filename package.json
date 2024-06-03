@@ -17,7 +17,8 @@
     "@sap/cds-dk": "^7"
   },
   "scripts": {
-    "start": "cds-serve"
+    "start": "cds-serve",
+    "test": "echo 1234"
   },
   "cds": {
     "requires": {
